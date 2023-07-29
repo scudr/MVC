@@ -1,0 +1,23 @@
+# Eclipse specific
+.classpath
+.project
+.settings/
+target/
+bin/
+
+# Module descriptor (Java 9+)
+module-info.java
+
+# Other common files to ignore
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# OS specific
+.DS_Store
+Thumbs.db
